@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 24 14:31:25 CET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-fa73-a8ee-0000072af600 
+on database directory D:\uni\Year2\Prog Tech\Assignment3\Assignment3\highscores with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/D:/uni/Year2/Prog%20Tech/Assignment3/Assignment3/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=D:\uni\Year2\Prog Tech\Assignment3\Assignment3
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
